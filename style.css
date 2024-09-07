@@ -32,7 +32,7 @@ p {font-size: 18px; /* Tamanho da fonte */
 /* Estiliza as seções da página */
 section {
     display: flex; /* Usa Flexbox para layout */
-    color: #eaecf0; /* Cor do texto */
+    color: #172b55; /* Cor do texto */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
     margin-bottom: 3rem; /* Espaçamento abaixo de cada seção */
@@ -45,7 +45,7 @@ section input {
     padding: 1rem; /* Espaçamento interno */
     border-radius: 1.5rem; /* Borda arredondada */
     margin-bottom: 1rem; /* Espaçamento abaixo dos inputs */
-    color: #F5F7F8; /* Cor do texto */
+    color: #112d3b; /* Cor do texto */
     font-size: 1rem; /* Tamanho da fonte */
     box-sizing: border-box; /* Inclui padding e border na largura total */
 }
@@ -63,7 +63,7 @@ section button {
 
 /* Adiciona efeito hover ao botão de pesquisa */
 section button:hover {
-    background-color: #F5F7F8; /* Muda a cor de fundo ao passar o mouse */
+    background-color: #041f2c; /* Muda a cor de fundo ao passar o mouse */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra mais intensa */
 }
 
@@ -89,13 +89,13 @@ section button:hover {
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
     font-size: 1.5rem; /* Tamanho da fonte */
-    color: #cad1db; /* Cor do texto */
+    color: #1d375c; /* Cor do texto */
 }
 
 /* Estiliza os links dentro dos itens de resultado */
 .item-resultado a {
     text-decoration: none; /* Remove o sublinhado padrão dos links */
-    color: #dde2e7; /* Cor do texto dos links */
+    color: #1c3247; /* Cor do texto dos links */
 }
 
 /* Estiliza os links quando são passados o mouse sobre */
